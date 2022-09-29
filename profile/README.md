@@ -18,3 +18,7 @@ complex issues to make your build complex and slow (like React Native), there
 are no compatibility issues.
 
 [^1]: akin to HTML
+
+## Blog
+
+- [Server-driven Logic](/blog/server-driven-logic.md)
